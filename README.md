@@ -1,4 +1,4 @@
-# rockettaxi
+# Rocket Taxi
 SEGA Genesis tribute to Commodore 64 game Space Taxi
 
 Requires SGDK available at https://github.com/Stephane-D/SGDK
